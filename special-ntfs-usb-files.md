@@ -16,8 +16,7 @@ flash drive to trigger commands on console boot.
 | $DumpSystemOS               | Folder | SystemOS Memory Dump. The console will ding when the dump is finished. (Host will delete $DumpSystemOS and dump SystemOS's memory into the $Diagnosis.)   |
 | $DumpHostOS                 | Folder | HostOS Memory Dump                                                                                                                                        |
 | $Diagnosis\\debug.bin       | File   | Set debug settings from *debug.bin*                                                                                                                       |
-| $SystemUpdate\\consoles.txt | File   | Put an empty file consoles.txt on the flashdrive. Console will write its current systemupdate build version to the file on boot. 
-|
+| $SystemUpdate\\consoles.txt | File   | Put an empty file consoles.txt on the flashdrive. Console will write its current systemupdate build version to the file on boot. |
 | $ConsoleRegion0             | File   | Only available on Chinese Xbox One. Put an empty file $ConsoleRegion0 on the flashdrive to Disable region lock.|
 | $ConsoleRegion1             | File   | Only available on Chinese Xbox One. Put an empty file $ConsoleRegion1 on the flashdrive to Enable region lock.|
 | MSXB_Kiosk                 | File   | Put a special Kiosk XVD on the flashdrive, after booting the console will be locked in Kiosk mode. To exit, power off console and remove the flash drive. |
