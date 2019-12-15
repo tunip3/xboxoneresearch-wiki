@@ -6,9 +6,9 @@
 |Release date                 |                                          10.09.2019 |
 |Author                       |                                   Xbox One Research |
 |Classification               |                             Elevation of privileges |
-|Patched                      |                                                  no |
-|Patch date                   |                                                 N/A |
-|First patched system version |                                                 N/A |
+|Patched                      |                                                 yes |
+|Patch date                   |                                          19/11/2019 |
+|First patched system version | 10.0.18363.8119 (19h1_release_xbox_dev_1911.18363.8119.191119-1135) |
 |Source                       |     https://github.com/xboxoneresearch/XboxUnattend |
 |Download                     |  [Download](files/XboxUnattend-master-20190919.zip) |
 
