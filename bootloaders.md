@@ -21,8 +21,9 @@ Started after the SP has completed its boot. Proceeds to intialise the
 rest of the console and then begins booting into the Host VBI.
 
 ## SCP
-
-Unknown, somewhere in between 2BL and VBI.
+(S)treaming (C)rypto (P)rocessor - internal crypto engine on the APU die.
+Data blob thats uploaded to the SCP, for initialization?!
+Initialization phase: Unknown, somewhere in between 2BL and VBI.
 
 ## VBI
 
